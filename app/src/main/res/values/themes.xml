@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" >
+        <item name="android:statusBarColor">@color/Bottieceli</item>
+        <item name="colorPrimaryDark">@color/Bottieceli</item>
+    </style>
+</resources>
